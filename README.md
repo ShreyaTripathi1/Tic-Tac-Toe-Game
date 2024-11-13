@@ -1,6 +1,7 @@
 # Tic-Tac-Toe-Game
 
-https://shreyatripathi1.github.io/Tic-Tac-Toe-Game/ </br></br>
+https://shreyatripathi1.github.io/Tic-Tac-Toe-Game/
+
 A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The game features a 3x3 grid where two players take turns placing "X" or "O" on the board. The first player to get three in a row wins!
 
 ## Features
